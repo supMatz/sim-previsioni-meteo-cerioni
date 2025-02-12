@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="CLASSI">
+    <Position X="2.25" Y="0.906" Height="0.312" Width="0.7" />
+  </Comment>
+  <Comment CommentText="FORM">
+    <Position X="9.5" Y="1" Height="0.292" Width="0.7" />
+  </Comment>
+  <Class Name="Meteo_Cerioni.Meteo">
+    <Position X="2.75" Y="1.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Meteo_Cerioni.Meteo.eCondizioneMeteo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Meteo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IACAAQAAEAAYAYAEAAgAAAAAAAAABAAAAEEBAAAABAI=</HashCode>
+      <FileName>Meteo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Meteo_Cerioni.Giornata">
+    <Position X="0.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAECAAAAAAAAAAAAAEAgAAAAAAAABAAAAAAAEAACAA=</HashCode>
+      <FileName>Giornata.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Meteo_Cerioni.FrmMain">
+    <Position X="10" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAGQCAEAIAAEACAAAAGAUAgAEoEAAAAAABAAoA=</HashCode>
+      <FileName>FrmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Meteo_Cerioni.FrmGiornataDetails">
+    <Position X="7" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ECAAAAAAACAEABAAAAGAIgBCAgEAqUAAAIAAAAAQAAA=</HashCode>
+      <FileName>FrmGiornataDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Meteo_Cerioni.Vento">
+    <Position X="0.5" Y="4.75" Width="2" />
+    <NestedTypes>
+      <Enum Name="Meteo_Cerioni.Vento.eDirezioneVento" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Vento.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

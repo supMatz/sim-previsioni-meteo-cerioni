@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34526.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meteo-Cerioni", "Meteo-Cerioni\Meteo-Cerioni.csproj", "{33B29DEA-6E30-4811-B2AD-C2844DF194CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33B29DEA-6E30-4811-B2AD-C2844DF194CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B29DEA-6E30-4811-B2AD-C2844DF194CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B29DEA-6E30-4811-B2AD-C2844DF194CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B29DEA-6E30-4811-B2AD-C2844DF194CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F47F563-E434-4944-A0CF-96936189F19A}
+	EndGlobalSection
+EndGlobal

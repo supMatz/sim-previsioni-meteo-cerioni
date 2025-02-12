@@ -1,0 +1,11 @@
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Meteo-Cerioni\Meteo-Cerioni\bin\Debug\Meteo-Cerioni.exe.config
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Meteo-Cerioni\Meteo-Cerioni\bin\Debug\Meteo-Cerioni.exe
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Meteo-Cerioni\Meteo-Cerioni\bin\Debug\Meteo-Cerioni.pdb
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Meteo-Cerioni\Meteo-Cerioni\obj\Debug\Meteo-Cerioni.csprojAssemblyReference.cache
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Meteo-Cerioni\Meteo-Cerioni\obj\Debug\Meteo_Cerioni.FrmMain.resources
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Meteo-Cerioni\Meteo-Cerioni\obj\Debug\Meteo_Cerioni.Properties.Resources.resources
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Meteo-Cerioni\Meteo-Cerioni\obj\Debug\Meteo-Cerioni.csproj.GenerateResource.cache
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Meteo-Cerioni\Meteo-Cerioni\obj\Debug\Meteo-Cerioni.csproj.CoreCompileInputs.cache
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Meteo-Cerioni\Meteo-Cerioni\obj\Debug\Meteo-Cerioni.exe
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Meteo-Cerioni\Meteo-Cerioni\obj\Debug\Meteo-Cerioni.pdb
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\Meteo-Cerioni\Meteo-Cerioni\obj\Debug\Meteo_Cerioni.FrmGiornataDetails.resources
